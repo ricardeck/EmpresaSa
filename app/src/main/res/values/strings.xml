@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Empresa Sa</string>
+    <string name="navigation_drawer_open">Abrir a barra de menus</string>
+    <string name="navigation_drawer_close">Fechar a barra de menus</string>
+    <string name="nav_header_title">Empresa SA</string>
+    <string name="nav_header_subtitle">contato@empresasa.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">A Empresa</string>
+    <string name="menu_gallery">Fotos</string>
+    <string name="menu_send">Enviar email</string>
+    <string name="text_home_fragment">A Empresa SA começa com o Sr. Fulano de Tal,
+        com 19 anos de idade, um entusiasta do ramo que entrou para a CIA,
+        empresa americana que explorava a exportação e importação de produtos em vários países e
+        era proprietária de várias fábricas pelo mundo.\n\nFoi criada durante a segunda guerra mundial, com o intuito de auxiliar as forças armadas
+        comandadas pelo General Coiso, a equipe de cientistas mecânicos e engenheiros criaram varias
+        tecnologias que foram muito úteis na guerra, tais como o primeiro computador. Após o falecimento
+        do General, a empresa entrou em decadência ate que em 2000 já quase declarando falência,
+        foi comprada pelo grupo TEC-Holding que é composto por presidente: Beltrando de tal, vice-presidente:
+        Sicrano de Tal, gerente demarketing: Fulano de Sicrano e Tal.\n\nTem como publico alvo, as forças armadas e as empresas da área da cibernética e da informática,
+        os produtos são muito duráveis, sendo que amanutenção deve ser feita no prazo estipulado,
+        aumentando assim a vida útil do produto. O mercado tem alto índice de crescimento ao ano de 15% a 20%,
+        sendo q é um mercado com uma grande competitividadee que tem ficado cada vez mais exigente.
+
+    </string>
+
+    <string name="text_fotos_fragment">Fotos</string>
+    <string name="text_clientes_fragment">Clientes</string>
+</resources>
